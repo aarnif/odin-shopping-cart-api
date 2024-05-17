@@ -27,7 +27,7 @@ const art = [
     description:
       "A tranquil mountain landscape with a clear blue lake in the foreground under a calm sky.",
     aspectRatio: "30:20",
-    image: "/images/mountain-serenity.png",
+    image: "images/mountain-serenity.png",
     type: "landscape",
   },
   {
@@ -56,7 +56,7 @@ const art = [
     description:
       "Vibrant sunset illuminating the golden fields with shades of orange and red.",
     aspectRatio: "34:23",
-    image: "/images/sunset-over-fields.png",
+    image: "images/sunset-over-fields.png",
     type: "landscape",
   },
   {
@@ -85,7 +85,7 @@ const art = [
     description:
       "A soft depiction of a forest in autumn, with leaves gently falling in a serene setting.",
     aspectRatio: "32:24",
-    image: "/images/autumn-whisper.png",
+    image: "images/autumn-whisper.png",
     type: "landscape",
   },
   {
@@ -114,7 +114,7 @@ const art = [
     description:
       "Snow-covered trees under a night sky, lit by the soft glow of the moon.",
     aspectRatio: "40:25",
-    image: "/images/winters-glow.png",
+    image: "images/winters-glow.png",
     type: "landscape",
   },
   {
@@ -143,7 +143,7 @@ const art = [
     description:
       "A surreal landscape of the desert with mirage effects on the horizon.",
     aspectRatio: "36:24",
-    image: "/images/desert-mirage.png",
+    image: "images/desert-mirage.png",
     type: "landscape",
   },
   {
@@ -172,7 +172,7 @@ const art = [
     description:
       "The gentle sea waves touching a rocky shore under a clear sky.",
     aspectRatio: "35:25",
-    image: "/images/coastal-breeze.png",
+    image: "images/coastal-breeze.png",
     type: "landscape",
   },
   {
@@ -201,7 +201,7 @@ const art = [
     description:
       "A serene lakeside view, reflecting the surrounding trees and sky.",
     aspectRatio: "36:24",
-    image: "/images/lakeside-calm.png",
+    image: "images/lakeside-calm.png",
     type: "landscape",
   },
   {
@@ -230,7 +230,7 @@ const art = [
     description:
       "A peaceful valley shrouded in early morning mist, captured with delicate brush strokes.",
     aspectRatio: "34:24",
-    image: "/images/misty-valley.png",
+    image: "images/misty-valley.png",
     type: "landscape",
   },
   {
@@ -259,7 +259,7 @@ const art = [
     description:
       "Rich hues of red and orange dominate this vibrant portrayal of a desert canyon.",
     aspectRatio: "25:30",
-    image: "/images/canyon-colors.png",
+    image: "images/canyon-colors.png",
     type: "portrait",
   },
   {
@@ -288,7 +288,7 @@ const art = [
     description:
       "A secluded woodland path dappled with light, inviting peaceful contemplation.",
     aspectRatio: "20:28",
-    image: "/images/forest-retreat.png",
+    image: "images/forest-retreat.png",
     type: "portrait",
   },
   {
@@ -317,7 +317,7 @@ const art = [
     description:
       "The early morning sun casts a golden glow over a calm, reflective ocean.",
     aspectRatio: "24:18",
-    image: "/images/ocean-dawn.png",
+    image: "images/ocean-dawn.png",
     type: "landscape",
   },
   {
@@ -346,7 +346,7 @@ const art = [
     description:
       "Early morning dew sparkles on wildflowers in a sunlit meadow.",
     aspectRatio: "34:22",
-    image: "/images/meadow-morning.png",
+    image: "images/meadow-morning.png",
     type: "landscape",
   },
   {
@@ -375,7 +375,7 @@ const art = [
     description:
       "Expansive views of rolling highland hills under a dynamic, stormy sky.",
     aspectRatio: "36:24",
-    image: "/images/highland-vista.png",
+    image: "images/highland-vista.png",
     type: "landscape",
   },
   {
@@ -404,7 +404,7 @@ const art = [
     description:
       "A solitary peak, blanketed in snow, stands majestically against a clear blue sky.",
     aspectRatio: "30:22",
-    image: "/images/snow-peak-solitude.png",
+    image: "images/snow-peak-solitude.png",
     type: "landscape",
   },
   {
@@ -433,7 +433,7 @@ const art = [
     description:
       "A winding river cuts through a colorful autumn landscape, reflecting the changing leaves.",
     aspectRatio: "28:20",
-    image: "/images/autumn-river-bend.png",
+    image: "images/autumn-river-bend.png",
     type: "landscape",
   },
   {
@@ -462,7 +462,7 @@ const art = [
     description:
       "A dense, green forest shrouded in morning mist, with sunlight filtering through the trees.",
     aspectRatio: "28:18",
-    image: "/images/forest-whispers.png",
+    image: "images/forest-whispers.png",
     type: "landscape",
   },
   {
@@ -491,7 +491,7 @@ const art = [
     description:
       "A vibrant sunset casting golden hues over a sprawling desert landscape.",
     aspectRatio: "32:24",
-    image: "/images/desert-glow.png",
+    image: "images/desert-glow.png",
     type: "landscape",
   },
   {
@@ -520,7 +520,7 @@ const art = [
     description:
       "The endless ocean meets a dramatic sky at the horizon, capturing the essence of the sea's tranquility.",
     aspectRatio: "30:20",
-    image: "/images/oceans-horizon.png",
+    image: "images/oceans-horizon.png",
     type: "landscape",
   },
   {
@@ -549,7 +549,7 @@ const art = [
     description:
       "Rolling hills covered in golden wheat, swaying gently under a clear blue sky.",
     aspectRatio: "34:22",
-    image: "/images/golden-fields.png",
+    image: "images/golden-fields.png",
     type: "landscape",
   },
   {
@@ -578,7 +578,7 @@ const art = [
     description:
       "Majestic snow-capped mountains under a star-filled night sky.",
     aspectRatio: "30:20",
-    image: "/images/snowy-peaks.png",
+    image: "images/snowy-peaks.png",
     type: "landscape",
   },
   {
@@ -607,7 +607,7 @@ const art = [
     description:
       "A serene river flanked by trees displaying vibrant autumn colors.",
     aspectRatio: "29:19",
-    image: "/images/autumn-river.png",
+    image: "images/autumn-river.png",
     type: "landscape",
   },
   {
@@ -636,7 +636,7 @@ const art = [
     description:
       "A sprawling vineyard at twilight, with rows of grapevines under a fading purple sky.",
     aspectRatio: "26:17",
-    image: "/images/twilight-vineyard.png",
+    image: "images/twilight-vineyard.png",
     type: "landscape",
   },
   {
@@ -665,7 +665,7 @@ const art = [
     description:
       "Fog envelops the highlands, with distant mountains barely visible through the haze.",
     aspectRatio: "31:21",
-    image: "/images/misty-highlands.png",
+    image: "images/misty-highlands.png",
     type: "landscape",
   },
   {
@@ -694,7 +694,7 @@ const art = [
     description:
       "A peaceful lake reflects the full moon, surrounded by dark silhouettes of trees.",
     aspectRatio: "27:18",
-    image: "/images/lunar-lake.png",
+    image: "images/lunar-lake.png",
     type: "landscape",
   },
   {
@@ -723,7 +723,7 @@ const art = [
     description:
       "Dramatic cliffs overlooking the ocean, with the sun setting in a fiery display of colors.",
     aspectRatio: "33:22",
-    image: "/images/sunset-cliffs.png",
+    image: "images/sunset-cliffs.png",
     type: "landscape",
   },
 ];
